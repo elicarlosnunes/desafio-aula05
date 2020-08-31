@@ -6,7 +6,7 @@ export class UserController {
 
     @Get()
     getUser() {
-        console.log("teste desafio aula 05");
+        console.log("teste desafio aula 05, agora vamos");
         return "user";
     }
 
